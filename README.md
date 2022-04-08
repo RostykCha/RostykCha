@@ -12,3 +12,7 @@ TECH:
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=RostykCha)](https://github.com/RostykCha)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RostykCha&layout=compact)](https://github.com/RostykCha)
+
+
+SOCIAL ACCAUNTS:
+<a href=”https://www.linkedin.com/in/rostyslav-chabria-224b20189/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
