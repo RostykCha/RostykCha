@@ -13,16 +13,3 @@ TECH:
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=RostykCha)](https://github.com/RostykCha)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RostykCha&layout=compact)](https://github.com/RostykCha)
 
-
-### 🤝 SOCIAL ACCAUNTS:
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
-
-<a href=”https://www.linkedin.com/in/rostyslav-chabria-224b20189/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
-
-<a href=”https://www.linkedin.com/in/rostyslav-chabria-224b20189/"><img align=”left” src=”https://raw.githubusercontent.com/RostykCha/RostykCha/main/images/linkedin.svg" alt=”RostykCha | LinkedIn” width=”21px”/>
-</a>
-
-### 🤝 Connect with me:
-
-<a href=”https://www.linkedin.com/in/rostyslav-chabria-224b20189/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.png" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
-</br>
