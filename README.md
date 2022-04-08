@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align=”center”>
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/51484396/162441692-aeb1df59-daa0-41ed-84f3-ee7227d99273.png" alt=”my banner”>
+<img width=”200" height=”200" src=”https://github.com/RostykCha/RostykCha/issues/1#issue-1197296513" alt=”my banner”>
 </p>
 
 <!--
