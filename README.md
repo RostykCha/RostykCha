@@ -1,6 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/51484396/162441692-aeb1df59-daa0-41ed-84f3-ee7227d99273.png)
 
-Skills:
+TECH:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
