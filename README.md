@@ -16,5 +16,5 @@ TECH:
 
 ### 🤝 SOCIAL ACCAUNTS:
 
-<a href=”https://www.linkedin.com/in/rostyslav-chabria-224b20189/"><img align=”left” src=”https://raw.githubusercontent.com/RostykCha/RostykCha/blob/main/images/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/rostyslav-chabria-224b20189/"><img align=”left” src=”https://github.com/RostykCha/RostykCha/blob/main/images/linkedin.png?raw=true" alt=”icon | LinkedIn” width=”21px”/></a>
 </br>
