@@ -1,5 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/51484396/162441692-aeb1df59-daa0-41ed-84f3-ee7227d99273.png)
-
+<p align=”center”>
+![banner](https://user-images.githubusercontent.com/51484396/162441692-aeb1df59-daa0-41ed-84f3-ee7227d99273.png)
+</p>
 <!--
 **RostykCha/RostykCha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img width=”200" height=”200" src=”https://user-images.githubusercontent.com/51484396/162441692-aeb1df59-daa0-41ed-84f3-ee7227d99273.png" alt=”my banner”>
